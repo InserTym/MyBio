@@ -4,7 +4,7 @@
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-javascript-21262d?style=for-the-badge&logo=javascript&logoColor=3572a5)
-![Html](https://img.shields.io/badge/-html-21262d?style=for-the-badge&logo=html&logoColor=3572a5)
+![Node.js](https://img.shields.io/badge/-node-21262d?style=for-the-badge&logo=node&logoColor=3572a5)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InserTym&layout=compact&theme=github_dark)
 
