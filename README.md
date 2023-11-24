@@ -4,7 +4,7 @@
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-javascript-21262d?style=for-the-badge&logo=javascript&logoColor=3572a5)
-![Web](https://img.shields.io/badge/-html-21262d?style=for-the-badge&logo=html&logoColor=3572a5)
+![Web](https://img.shields.io/badge/-web-21262d?style=for-the-badge&logo=web&logoColor=3572a5)
 
 ### Socials:
 [![Gmail](https://img.shields.io/badge/-Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=3572a5)](mailto:0.nxoji.0@gmail.com)
