@@ -1,10 +1,7 @@
 <h1 align="center">Hello
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-### Languages:
 ![JavaScript](https://img.shields.io/badge/-javascript-21262d?style=for-the-badge&logo=javascript&logoColor=3572a5)
-![Node.js](https://img.shields.io/badge/-node-21262d?style=for-the-badge&logo=node&logoColor=3572a5)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InserTym&layout=compact&theme=github_dark)
 
